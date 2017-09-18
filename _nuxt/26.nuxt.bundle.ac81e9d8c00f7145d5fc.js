@@ -1,1 +1,0 @@
-webpackJsonp([26],{1005:function(n,e,t){var r=t(98)(null,t(1328),null,null);n.exports=r.exports},1328:function(n,e){n.exports={render:function(){var n=this,e=n.$createElement;return(n._self._c||e)("nuxt")},staticRenderFns:[]}}});
